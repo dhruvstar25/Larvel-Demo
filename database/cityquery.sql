@@ -1,0 +1,15 @@
+
+INSERT INTO `citys` ( `CityName`, `stateid`) VALUES
+('Central Delhi', 10),
+('New Delhi', 10),
+('South Delhi', 10),
+('North Delhi', 10),
+('North West Delhi', 10),
+('South West Delhi', 10),
+('West Delhi', 10),
+('East Delhi', 10),
+('North East Delhi', 10),
+('Gurgaon', 10),
+('Faridabad', 10),
+('Ghaziabad', 10),
+('Noida', 10),
